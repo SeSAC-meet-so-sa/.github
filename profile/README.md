@@ -1,7 +1,8 @@
 
 <div align="center">
-  <div> 문답 기반 감정 기록 소셜 커뮤니티 플랫폼 </div>
-  
+  <div style="font: bold italic;"> 문답 기반 감정 기록 소셜 커뮤니티 플랫폼 </div>
+  <br/>
+	<br/>
   <img src="https://github.com/user-attachments/assets/6c4f7b8e-4e35-4562-ba88-03d3a362aed6" alt="title" width="50%" height="50%" >
 
   <a href="https://www.meet-da.site">https://meet-da.site</a>
@@ -14,7 +15,7 @@
 |<img width="142" alt="스크린샷 2025-02-24 오전 7 03 54" src="https://github.com/user-attachments/assets/e9bc7cba-dc6e-4ea5-b461-8aefa8b6dd1e" />|<img width="142" alt="스크린샷 2025-02-24 오전 7 04 21" src="https://github.com/user-attachments/assets/f6e49cdc-e02e-416e-816e-3e25e803d766" />|<img width="144" alt="스크린샷 2025-02-24 오전 7 04 28" src="https://github.com/user-attachments/assets/c9d291f1-953c-446e-a71b-28f1201c030d" />|
 |:-:|:-:|:-:|
 |<a href="https://github.com/noey-us">👑정수연</a>|<a href="https://github.com/nowgnoesiohc">최성원</a>|<a href="https://github.com/luke3151">서준형</a>|
-|<div>팀장 프론트엔드</div>|<div>백엔드 프론트엔드 배포</div>|<div>프론트엔드</div>|
+|<div>팀장<br/>디자인<br/>프론트엔드</div>|<div>백엔드<br/>프론트엔드<br/>배포</div>|<div>프론트엔드</div>|
 </div>
 <br>
 <br>
@@ -26,15 +27,51 @@
 
 - **🏠Meet-da** 가 제공하는 서비스
 	- 감정 기록과 자기 성찰을 통해 일상 속 성장을 느끼고, 이를 소셜 커뮤니티를 통해 공유하는 사용자 중심 플랫폼
+ <div align="center"><img width="700" align='center' alt="스크린샷 2025-02-24 오후 12 45 11" src="https://github.com/user-attachments/assets/270c55c3-106c-4004-ae77-29f22bd67ac6" />
+</div>
+
 <br>
 <br>
 
 
-## 💻 기술 스택
-- 프론트엔드
-<img width="801" alt="스크린샷 2025-02-24 오전 7 15 09" src="https://github.com/user-attachments/assets/5b809f04-2eee-487e-a209-417f45f1e5de" />
-- 백엔드
-<img width="835" alt="스크린샷 2025-02-24 오전 7 15 23" src="https://github.com/user-attachments/assets/bd5de56d-d8ed-4036-ba5a-d57b8394e37f" />
+## 💻 기술 스택 및 아키텍처
+
+**[프론트엔드]**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<img src="https://img.shields.io/badge/zustand?style=for-the-badge&logo=zustand&logoColor=white">
+
+
+<div align="center">
+	<img width="800" alt="스크린샷 2025-02-24 오전 7 15 09" src="https://github.com/user-attachments/assets/5b809f04-2eee-487e-a209-417f45f1e5de" />
+</div>
+
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/></a></a>
+
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black"/></a></a> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a></a>
+
+**[ Frontend ]**
+<img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/></a></a>
+
+
+
+**[ Backend ]**
+<div align="center">
+	<img width="800" alt="스크린샷 2025-02-24 오후 12 46 58" src="https://github.com/user-attachments/assets/1111ab51-b24d-42da-865f-d69ae6c62bf8" />
+</div>
+
+**[ CI/CD ]**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/></a></a> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a></a>
+
+
+
 
 <br>
 <br>
